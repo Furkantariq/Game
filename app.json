@@ -3,8 +3,9 @@
     "name": "GAME",
     "slug": "GAME",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "automatic",
     "icon": "./assets/images/icon.png",
+    
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
